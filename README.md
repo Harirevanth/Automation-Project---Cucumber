@@ -30,3 +30,12 @@ This project automates the Adactin Hotel Booking application using **Behavior Dr
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/Harirevanth/Automation-Project---Cucumber
+
+   
+👤 Author
+Hari Revanth S
+
+🔗 GitHub
+
+🔗 LinkedIn
+
